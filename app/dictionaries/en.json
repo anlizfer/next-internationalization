@@ -1,0 +1,7 @@
+{
+    "home":{
+        "title":"Hello World",
+        "secondary":"Hello, how do you doing?",
+        "button_send":"Send"
+    }
+}
